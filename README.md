@@ -5,6 +5,8 @@
 ## Description
 
 A simple but insightful dashboard visualizing various information regarding Nike Global sales in 2024. 
+Created using Tableau and Power BI. The dashboard focuses on informing the audience important information regarding Nike
+business sales during 2024. 
 
 ## License
 
