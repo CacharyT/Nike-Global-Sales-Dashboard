@@ -1,5 +1,7 @@
 # Nike-Global-Sales-Dashboard
 
+![Website Image](images/Dashboard.png)
+
 ## Description
 
 A simple but insightful dashboard visualizing various information regarding Nike Global sales in 2024. 

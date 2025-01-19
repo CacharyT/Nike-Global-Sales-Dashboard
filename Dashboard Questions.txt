@@ -1,0 +1,7 @@
+- Which region was Nike most popular in (most sold in)? DONE
+- Which product category is the best selling? (DONE)
+- Which product line produce the most revenue? (DONE)
+- Categorize the most popular product line & sub categories for each min category? (DONE)
+- Total Revenue (DONE)
+- Total Units Sold per month (DONE)
+- Average Price per tier (DONE)
