@@ -6,10 +6,6 @@
 
 A simple but insightful dashboard visualizing various information regarding Nike Global sales in 2024. 
 
-## Authors
-
-Cachary Tolentino
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
